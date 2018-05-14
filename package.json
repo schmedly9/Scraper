@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/schmedly9/Scraper/issues"
   },
-  "homepage": "https://github.com/schmedly9/Scraper#readme"
+  "homepage": "https://github.com/schmedly9/Scraper#readme",
+  "dependencies": {
+    "mongoose": "^5.1.0"
+  }
 }
