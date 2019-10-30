@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/schmedly9/Scraper#readme",
   "dependencies": {
-    "mongoose": "^5.1.0"
+    "mongoose": "^5.7.5"
   }
 }
